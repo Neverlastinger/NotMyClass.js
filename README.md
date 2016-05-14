@@ -1,0 +1,1 @@
+# NotMyClass.js
